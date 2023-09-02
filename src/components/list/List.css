@@ -1,0 +1,17 @@
+
+.users {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 58px;
+    margin: auto;
+    max-width: 1050px;
+}
+
+@media only screen and (max-width: 700px){
+    .users{
+        max-width: 90vw;
+    }
+}
+  

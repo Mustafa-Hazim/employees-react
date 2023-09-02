@@ -1,0 +1,77 @@
+
+.user {
+    box-shadow: 1px 5px 5px gray;
+    box-shadow: 1px 5px 5px gray;
+    border-radius: 21px;
+}
+
+.avatar {
+    padding: 8px;
+    border-radius: 21px 21px 0px 0px;
+}
+  
+
+
+/* Inline #6 | http://localhost:3001/ */
+
+.name {
+    text-align: left;
+    padding: 8px;
+    font-size: 18px;
+}
+
+.fa-solid.fa-user-tie {
+    font-size: 27px;
+    color: #3c3e04;
+}
+
+.name {
+    display: flex;
+    justify-content: left;
+    gap: 16px;
+    align-items: center;
+}
+
+
+
+
+/* Inline #10 | http://localhost:3001/ */
+
+.fa-regular.fa-envelope {
+    font-size: 27px;
+    color: #3c3e04;
+  }
+  
+  .fa-solid.fa-cake-candles {
+    font-size: 27px;
+    color: #3c3e04;
+  }
+  
+  .empd {
+    display: flex;
+    justify-content: left;
+    gap: 16px;
+    align-items: center;
+    padding: 8px;
+  }
+  
+  
+
+
+/* Inline #10 | http://localhost:3001/ */
+
+.salary-title {
+    text-align: left;
+    display: flex;
+    gap: 16px;
+    align-items: center;
+    margin: 5px;
+  }
+  
+  .country {
+    padding: 8px;
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+  }
+  
